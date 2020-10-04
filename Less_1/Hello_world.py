@@ -44,6 +44,38 @@
 # print((a < b) or (c > b))
 # print(not((a < b) or (c > b)))
 
-# user_answer = int(input("Enter number: "))
+# TODO Pycharm functionality test
+
+# user_answer = int(input("Enter number: ")) # всегда возврашает float
 # print(type(user_answer))
+
+# ВЕТВЛЕНИЯ
+
+# orig_pass = "qwe"
+# p_user = input("Enter password: ")
+# if orig_pass == p_user:
+#     print("Access is allowed")
+# else:
+#     print("Access denied")
+
+# number = int(input("Enter number: "))
+# while number < 20:
+#     number += 1
+#     if number == 5:
+#         continue
+#     if number == 8:
+#         break
+#     print(number)
+
+# age = 50.222
+# name = 'Ivan'
+# surname = 'Ivanov'
+#
+# print("Name: %s Surname: %s Age: %d " % (name, surname, age))
+# print("Name: {} Surname: {} Age: {} ".format(name, surname, age))
+# print(f"Name: {name} Surname: {surname:50} Age: {age:.2f} ")
+
+
+
+
 
