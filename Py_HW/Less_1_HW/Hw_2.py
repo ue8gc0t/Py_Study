@@ -4,4 +4,4 @@ hours = time_s // 3600
 minutes = (time_s % 3600) // 60
 seconds = time_s % 60
 
-print(f"{hours}:{minutes}:{seconds}")
+print(f"{hours:02}:{minutes:02}:{seconds:02}")
