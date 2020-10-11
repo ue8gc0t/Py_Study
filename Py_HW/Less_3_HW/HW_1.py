@@ -5,4 +5,3 @@ def division(num_1, num_2):
         print('division by zero')
 
 
-print(division(10, 0))
