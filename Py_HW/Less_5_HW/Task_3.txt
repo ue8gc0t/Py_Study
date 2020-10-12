@@ -1,0 +1,9 @@
+Ivanov 30400 rub
+Petrov 25300 rub
+Anisimov 35000 rub
+Volkov 18000 rub
+Knyazev 28000 rub
+Egorov 19400 rub
+Panin 15200 rub
+Artemyev 21100 rub
+Evdokimov 39900 rub
