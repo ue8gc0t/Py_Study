@@ -1,0 +1,6 @@
+Partindustry 1ОО 67000 87000
+Sounlake О12 34000 13000
+Tik О45 9000 17000
+Baseband 12О 120000 890000
+Guardian 321 39000 18000
+Sentcorp ОО1 15000 16000
